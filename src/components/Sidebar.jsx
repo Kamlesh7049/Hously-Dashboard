@@ -64,7 +64,7 @@ const Sidebar = ({ isOpen }) => {
     <nav
       style={{
         width: isOpen ? "250px" : "80px",
-        backgroundColor: "#1F2937",
+        backgroundColor: "#0074d9",
         color: "white",
         height: "100vh",
         transition: "width 0.3s ease",
